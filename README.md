@@ -1,5 +1,4 @@
-<h1>Module-1-Challenge</h1>
-<h2>UCLA Bootcamp, 2023-2024</h2>
-<h3>Challenge 1: Refactoring Horiseon's Website Code</h3>
-<br>
-<h3>Project Description and Purpose</h3>
+#Module-1-Challenge#
+##UCLA Coding Bootcamp 2023-2023##
+###Refactoring of Horiseon's Website###
+####Successfully update of the source code for more HTML semantics, logical restructure of elements, addition of alt text attributes, sequential reordering of heading atrributes, and addition of a website title.####
